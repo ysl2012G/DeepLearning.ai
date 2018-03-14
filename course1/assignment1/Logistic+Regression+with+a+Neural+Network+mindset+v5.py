@@ -35,7 +35,6 @@ from lr_utils import load_dataset
 
 get_ipython().magic('matplotlib inline')
 
-
 # ## 2 - Overview of the Problem set ##
 # 
 # **Problem Statement**: You are given a dataset ("data.h5") containing:
